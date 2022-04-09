@@ -1,6 +1,6 @@
 {
   "name": "@rise8/tailwind-pixel-perfect-preset",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A Tailwind CSS preset that replaces rem with px.",
   "author": "Joshua Nathaniel Miller",
   "license": "MIT",

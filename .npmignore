@@ -1,2 +1,4 @@
-node_modules
 .github
+.idea
+node_modules
+.gitignore
