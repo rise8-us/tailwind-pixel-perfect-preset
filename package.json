@@ -5,7 +5,6 @@
   "author": "Joshua Nathaniel Miller",
   "license": "MIT",
   "main": "index.js",
-  "type": "module",
   "peerDependencies": {
     "tailwindcss": "^3.0.0"
   }
