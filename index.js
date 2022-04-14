@@ -94,6 +94,7 @@ module.exports = {
       '7xl': remPx['80rem'],
     },
     spacing: {
+      0: remPx['0rem'],
       0.25: remPx['0.0625rem'],
       0.5: remPx['0.125rem'],
       0.75: remPx['0.1875rem'],
